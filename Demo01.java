@@ -10,6 +10,7 @@ public class Demo01 {
         int e=4;
         e+=8;
         System.out.println(e);
-
+        int A=4,B=6;
+        System.out.println(A*B);
     }
 }
